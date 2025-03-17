@@ -43,7 +43,7 @@ function InvitationCard() {
             <>
               <h1>Invitation to Dinner</h1>
               <p>
-                Hey Captain, We're excited to invite you to a delightful evening
+                Hey, We're excited to invite you to a delightful evening
                 filled with great food, laughter, and good company. Your
                 presence would truly make it a night to remember!
               </p>
